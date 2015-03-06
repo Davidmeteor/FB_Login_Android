@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WhereToGo_Test1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">1598307067047703</string>
+</resources>

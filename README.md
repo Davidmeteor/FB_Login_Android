@@ -11,7 +11,5 @@
 * http://contemplator17.pixnet.net/blog/post/405053653
 * http://contemplator17.pixnet.net/blog/post/406794118
 * http://programmerguru.com/android-tutorial/how-to-implement-facebook-login-in-android-applications/
-<<<<<<< HEAD
-=======
 
->>>>>>> a3c8dd47cd8d388fbb8735c88c23d95ac7e9de5b
+![](https://github.com/Davidmeteor/FB_Login_Android/blob/master/FB_Login_Screenshot.png)

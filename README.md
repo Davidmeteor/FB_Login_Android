@@ -12,4 +12,4 @@
 * http://contemplator17.pixnet.net/blog/post/406794118
 * http://programmerguru.com/android-tutorial/how-to-implement-facebook-login-in-android-applications/
 
-![](https://github.com/Davidmeteor/FB_Login_Android/blob/master/WhereToGo_v3_screenshot.png)
+![](https://github.com/Davidmeteor/FB_Login_Android/blob/master/FB_Login_Screenshot.png)

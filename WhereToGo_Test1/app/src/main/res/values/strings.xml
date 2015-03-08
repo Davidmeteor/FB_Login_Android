@@ -4,4 +4,5 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="facebook_app_id">1598307067047703</string>
+    <string name="title_activity_friend_list">FriendList</string>
 </resources>
